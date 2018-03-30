@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb116844-b066-46cd-acf2-ff147caf578d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" />
+      <change beforePath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" afterPath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" />
+      <change beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" />
+      <change beforePath="$PROJECT_DIR$/config/xml/tab_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/tab_modules_list.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/app/config/parameters.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -123,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522437699403</updated>
-      <workItem from="1522437714033" duration="545000" />
+      <workItem from="1522437714033" duration="1270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="545000" />
+    <option name="totallyTimeSpent" value="1270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -168,7 +173,7 @@
     <entry file="file://$PROJECT_DIR$/app/config/parameters.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
       </provider>
