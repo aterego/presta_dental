@@ -44,11 +44,7 @@
         {/block}
       </header>
 	  {if $page.page_name == 'index'}
-		<div class="container">
-			<div class="row">
-				{hook h='displayTopColumn'}
-			</div>
-		</div>
+		{hook h='displayTopColumn'}
 		<div class="blockPosition1">
 			{hook h='displayBlockPosition1'}
 		</div>
