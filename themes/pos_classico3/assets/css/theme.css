@@ -7927,7 +7927,10 @@ li.product-flag {
       #header .header-nav .material-icons.expand-more {
         margin-left: -0.375rem; }
   #header .header-top {
-    padding-bottom: 1.25rem; }
+    /* //***AVA*** */
+    //padding-bottom: 1.25rem;
+    padding-bottom: 7px;
+  }
     #header .header-top > .container {
       position: relative; }
     #header .header-top .menu {

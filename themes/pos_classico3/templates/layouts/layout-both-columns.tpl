@@ -44,7 +44,11 @@
         {/block}
       </header>
 	  {if $page.page_name == 'index'}
-		{hook h='displayTopColumn'}
+		<div class="container">
+			<div class="row">
+				{hook h='displayTopColumn'}
+			</div>
+		</div>
 		<div class="blockPosition1">
 			{hook h='displayBlockPosition1'}
 		</div>
@@ -111,6 +115,12 @@
 
     {hook h='displayBeforeBodyClosingTag'}
 	<div class="back-top"><a href= "#" class="back-top-button"></a></div>
+
+
+	<script>
+        new WOW().init();
+	</script>
+
 
   </body>
 </html>

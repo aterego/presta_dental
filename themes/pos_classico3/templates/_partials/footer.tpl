@@ -2,7 +2,7 @@
 	{hook h='displayBlockFooter1'}
 </div>
 <div class="footer-center">
-	<div class="container">
+	<div class="container wow slideInRight">
 		<div class="row">
 			{hook h='displayFooterBefore'}
 		</div>

@@ -5849,7 +5849,11 @@ input:focus, button:focus, select:focus, textarea:focus {
 a:hover, a:focus {
   outline: 0 !important;
   text-decoration: none !important;
-  box-shadow: none !important; }
+  box-shadow: none !important;
+
+  /* //***AVA*** */
+  color: #23b5b9;
+}
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .btn:hover, .btn:focus, .btn:active, .btn.active {
   outline: 0 !important;
@@ -5925,6 +5929,9 @@ body {
   background: #f7f7f7;
   color: #999; }
 
+
+
+
 @media (min-width: 1200px) {
   .container-fluid {
     padding-left: 30px;
@@ -5934,12 +5941,16 @@ body {
     padding-left: 80px;
     padding-right: 80px; } }
 #index #header {
-  max-width: 1230px;
+  /* //***AVA*** */
+  //max-width: 1230px;
   margin: 0 auto;
-  position: absolute;
+  /* //***AVA*** */
+  //position: absolute;
   top: 0;
   left: 0;
-  right: 0; }
+  right: 0;
+
+}
   @media (max-width: 1199px) {
     #index #header {
       position: static; } }
@@ -5947,10 +5958,14 @@ body {
 #header {
   background: rgba(255, 255, 255, 0.8);
   z-index: 9;
-  max-width: 1170px;
+  /* //***AVA*** */
+  //max-width: 1170px;
   margin: 0 auto; }
   #header .logo {
-    margin: 0; }
+    margin: 0;
+   /* //***AVA*** */
+  margin-top: -25px;
+  }
     @media (max-width: 767px) {
       #header .logo {
         margin: auto; } }
@@ -5981,7 +5996,11 @@ body {
       text-align: center; } }
 
 #header .header-top {
-  padding: 28px 15px;
+  /* //***AVA*** */
+  //padding: 28px 15px;
+  min-height: 95px;
+
+
   background: transparent; }
   @media (max-width: 1199px) {
     #header .header-top {
@@ -5990,7 +6009,10 @@ body {
     #header .header-top #header_logo {
       padding-bottom: 20px; } }
   #header .header-top #header_logo {
-    text-align: center; }
+    /* //***AVA*** */
+    //text-align: center;
+    margin-top: -7px;
+  }
     @media (max-width: 991px) {
       #header .header-top #header_logo {
         text-align: left; } }
@@ -6011,8 +6033,10 @@ body {
       max-width: 1230px; } }
 
 .menu-warrper {
-  background: #000;
-  text-align: center; }
+  background: #23b5b9;
+  /* //***AVA*** */
+  //text-align: center;
+}
 
 @media (min-width: 992px) {
   #header .scroll-menu {
@@ -6729,7 +6753,12 @@ ul#pt_custommenu_itemmobile {
 /* module contact */
 .contact-link {
   float: left;
-  line-height: 40px; }
+  line-height: 40px;
+
+ /* //***AVA*** */
+  display: none;
+
+}
   .contact-link .info_box {
     display: inline-block;
     color: #999;
@@ -6738,7 +6767,12 @@ ul#pt_custommenu_itemmobile {
     line-height: 1;
     border-left: 1px solid rgba(255, 255, 255, 0.3); }
     @media (max-width: 991px) {
+
+
       .contact-link .info_box {
+         /* //***AVA*** */
+        display: none;
+
         padding: 0 5px; } }
     .contact-link .info_box:first-child {
       padding-left: 0;
@@ -6879,10 +6913,13 @@ ul#pt_custommenu_itemmobile {
 /* end module social */
 /* module search block */
 .block-search {
-  margin-top: 5px;
+  //margin-top: 5px;
   display: inline-block;
   position: absolute;
-  left: 0; }
+  /* //***AVA*** */
+  right: 0;
+  top:50px;
+}
   @media (max-width: 1199px) {
     .block-search {
       left: 15px; } }
@@ -7676,6 +7713,18 @@ ul#pt_custommenu_itemmobile {
 .banner-static .banner-box {
   text-align: center;
   background: #fbe87d; }
+
+/* ***AVA*** */
+.banner-static .banner-box0 {
+  text-align: center;
+  background: #f15c58; }
+
+
+.banner-static .banner-box02 {
+  text-align: center;
+  background: #23b5b9; }
+
+
   .banner-static .banner-box h2 {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
@@ -8012,7 +8061,11 @@ ul#pt_custommenu_itemmobile {
     #footer .social_follow ul {
       padding: 30px 0; }
   #footer .footer-center {
-    background: #000; }
+    /* //***AVA***  */
+    //background: #000;
+    background: #f15c58;
+  }
+
   #footer .footer-bottom {
     padding: 30px 0;
     background: #fff;
@@ -8033,7 +8086,10 @@ ul#pt_custommenu_itemmobile {
       #footer .footer-bottom .pos-title h2 span {
         background: #fff; }
   #footer .footer-link {
-    padding: 30px 0; }
+    padding: 30px 0;
+    /* //***AVA***  */
+    background: #23b5b9;
+  }
     #footer .footer-link address {
       margin: 0;
       color: #444;
@@ -8662,7 +8718,12 @@ li.product-flag {
     float: none;
     width: 100%;
     text-align: center;
-    display: inline-block; }
+    display: inline-block;
+
+         /* //***AVA*** */
+        display: none;
+
+  }
 
   #header .social_follow {
     float: none;
@@ -9728,6 +9789,12 @@ body.lang-rtl {
     float: right;
     display: inline-block; }
   @media (max-width: 767px) {
+
+    /* //***AVA*** no slideshow for phone */
+    .slideshow_container{
+      display: none;
+    }
+
     body.lang-rtl .blockcart {
       float: none; }
       body.lang-rtl .blockcart .body {
@@ -9765,3 +9832,84 @@ body.lang-rtl {
     direction: ltr !important; }
 
 /* end rtl theme */
+
+
+/* //***AVA*** */
+.banner-static-2 .banner-box h2.blue{color: #23b5b9;}
+
+.service-link {
+    color: #f15c58;
+    display: block;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 40px;
+    transition: .4s;
+
+}
+
+
+.about-btn {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 3px;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, .07);
+    color: #f15c58;
+    display: inline-block;
+    font-weight: 700;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    width: 150px;
+    margin-top: 20px;
+    transition: .4s;
+    font-family: 'PT Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+.about-btn:hover {
+   background: #23b5b9;
+   color: #fff;
+}
+
+.banner-static .banner-box0 h2{color: white;}
+.banner-static .banner-box0 p{color: white;}
+
+.banner-static .banner-box02 h2{color: white;}
+.banner-static .banner-box02 p{color: white;}
+
+.text-left{text-align: left;}
+.text-right {text-align: right;}
+
+.banner-box-top{
+  padding: 35px 20px;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 767px) {
+  .get-btn {
+    text-align: center
+  }
+
+  .service-link {
+    margin-bottom: 20px;
+
+  }
+
+}
+
+
+@media (max-width: 1024px) {
+ #topmodule{
+   display: none;
+ }
+}
+
+
+/* //***AVA*** copy hook style from layout 6 */
+
+.static-sequence {
+    margin-top: 12px;
+}
+
+.static-sequence .banner-box2 {
+    margin-top: 18px;
+}

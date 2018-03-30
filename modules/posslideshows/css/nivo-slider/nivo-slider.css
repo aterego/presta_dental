@@ -67,6 +67,9 @@
 .slideshow_container {
     overflow: hidden;
     margin: 0;
+    /* //***AVA*** */
+   /*/ padding-top: 140px;*/
+
 }
 .slideshow_container .pos-slideshow {
     position: relative;

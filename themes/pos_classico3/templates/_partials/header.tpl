@@ -33,12 +33,12 @@
 {block name='header_top'}
 	<div class="header-top scroll_menu ">
 		<div class="container">
-			<div class="offset-xl-4 offset-lg-4 col-md-4 col-sm-12 col-xs-12" id="header_logo">
+			<div class="col-xs-12 col-md-4 col-lg-4" id="header_logo">
 				<a href="{$urls.base_url}">
 					<img class="logo img-responsive" src="{$shop.logo}" alt="{$shop.name}">
 				</a>
 			</div>
-			<div class="col-xs-12 col-md-8 col-lg-4 display_top">
+			<div class="col-xs-12 col-md-8 col-lg-8 display_top">
 				{hook h='displayTop'}
 			</div>
 		</div>

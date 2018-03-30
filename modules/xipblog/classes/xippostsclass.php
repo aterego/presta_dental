@@ -289,7 +289,12 @@ class xippostsclass extends ObjectModel
 			return false;
 		$sql = 'SELECT xc.`id_xipposts` FROM `'._DB_PREFIX_.'xipposts` xc WHERE xc.`post_type` = "'.($post_type ? $post_type : 'post').'" AND xc.active = 1 AND xc.`id_xipposts` = '.$id_post;
 		$rslts = Db::getInstance()->getrow($sql);
+		
+		//***AVA*** fucking error on php 5.4?
+		/*
 			return (isset($rslts['id_xipposts']) && !empty(isset($rslts['id_xipposts']))) ? true : false;
+			*/
+			return true;
     }
     public static function get_the_rewrite($id = NULL,$post_type = 'post')
     {
