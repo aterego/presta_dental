@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>7 Practical Ways How to Increase Revenue from Every Email You Send</title>
+    <link>https://www.prestashop.com/en/blog/e-commerce-tipps/7-practical-ways-how-to-increase-revenue-from-every-email-you-send</link>
+    <description>Emails. We all have inboxes full of them, which means our customers do, too. That’s why it’s exceptionally important to make sure the emails you’re sending are worthwhile.</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/e-commerce-tipps/7-practical-ways-how-to-increase-revenue-from-every-email-you-send</guid>
+  </item>
+  <item>
+    <title>Meet Mary Ana, Ambassador of the month | April 2017	</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-ambassadors/meet-mary-ana-ambassador-month-april-2017</link>
+    <description>Mary Ana, our Ambassador located in Santiago de Chile, is a Social Entrepreneur as well as a Supply Chain Manager and was recognized as “one of the 100 most influent women in her country in 2016” f</description>
+     <pubDate>Wednesday, May 10, 2017 - 17:01</pubDate>
+ <dc:creator>margauxchoplin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-ambassadors/meet-mary-ana-ambassador-month-april-2017</guid>
+  </item>
+  <item>
+    <title>Meet Ana, Ambassador of the month | March 2017</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-ambassadors/meet-ana-ambassador-month-march-2017</link>
+    <description>Ana is one of our Spanish Ambassadors, based in Bilbao. Although she joined the Program quite recently, she is already super involved and already organized 4 meetups between October and March!</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>margauxchoplin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-ambassadors/meet-ana-ambassador-month-march-2017</guid>
+  </item>
+  <item>
+    <title>PrestaShop 1.7.1.0 is now available</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-1-7-1-0-now-available</link>
+    <description>Optimization, performance and functionality are the major themes in this release</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>xavier borderie</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-1-7-1-0-now-available</guid>
+  </item>
+  <item>
+    <title>Top 10 Features to boost sales and run your e-commerce business more efficiently</title>
+    <link>https://www.prestashop.com/en/blog/top-10-features-boost-sales-run-e-commerce-business-efficiently</link>
+    <description>In an ever growing and competitive online market, you are always looking for the right tools and features to help you sprint ahead.</description>
+     <pubDate>Thursday, March 16, 2017 - 11:47</pubDate>
+ <dc:creator>emmanuelfages</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/top-10-features-boost-sales-run-e-commerce-business-efficiently</guid>
+  </item>
+  <item>
+    <title>Successfully Migrate Your E-Commerce Site</title>
+    <link>https://www.prestashop.com/en/blog/successfully-migrate-e-commerce-site</link>
+    <description>Migrating to PrestaShop generally happens when redesigning an e-commerce site.</description>
+     <pubDate>Thursday, March 16, 2017 - 10:34</pubDate>
+ <dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/successfully-migrate-e-commerce-site</guid>
+  </item>
+  <item>
+    <title>Four Ways to Use Discount Coupons to Achieve Your Objectives </title>
+    <link>https://www.prestashop.com/en/blog/four-ways-use-discount-coupons-achieve-objectives</link>
+    <description>Using coupons in e-commerce has become a commonplace marketing strategy, but is very effective when done correctly.</description>
+     <pubDate>Tuesday, March 14, 2017 - 01:00</pubDate>
+ <dc:creator>mvalenza</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/four-ways-use-discount-coupons-achieve-objectives</guid>
+  </item>
+  <item>
+    <title>Five tips for a successful redesign of your site’s graphic interface</title>
+    <link>https://www.prestashop.com/en/blog/five-tips-successful-redesign-sites-graphic-interface</link>
+    <description>Your store has been online for several months now. Sales are picking up, and now you’re looking to take things to the next level.</description>
+     <pubDate>Thursday, March 2, 2017 - 01:00</pubDate>
+ <dc:creator>mvalenza</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/five-tips-successful-redesign-sites-graphic-interface</guid>
+  </item>
+  <item>
+    <title>6 Tips for a faster E-Commerce Website</title>
+    <link>https://www.prestashop.com/en/blog/6-tips-faster-e-commerce-website</link>
+    <description>By Timme Hosting</description>
+     <pubDate>Wednesday, March 1, 2017 - 09:57</pubDate>
+ <dc:creator>cdeguingand</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/6-tips-faster-e-commerce-website</guid>
+  </item>
+  <item>
+    <title>Meet Deyson, Ambassador of the month | February 2017</title>
+    <link>https://www.prestashop.com/en/blog/meet-deyson-ambassador-month-february-2017</link>
+    <description>Deyson is our extremely dynamic Ambassador in Rio de Janeiro. He’s always ready to give a talk about PrestaShop or answer your questions.</description>
+     <pubDate>Tuesday, February 28, 2017 - 04:56</pubDate>
+ <dc:creator>floreravaud</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/meet-deyson-ambassador-month-february-2017</guid>
+  </item>
+  </channel>
+</rss>
