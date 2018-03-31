@@ -405,6 +405,9 @@ class ValidateCore
      * @param string $html HTML field to validate
      * @return bool Validity is ok or not
      */
+
+    //***AVA*** do not restrict
+    /*
     public static function isCleanHtml($html, $allow_iframe = false)
     {
         $events = 'onmousedown|onmousemove|onmmouseup|onmouseover|onmouseout|onload|onunload|onfocus|onblur|onchange';
@@ -425,6 +428,9 @@ class ValidateCore
 
         return true;
     }
+    */
+
+    public static function isCleanHtml($html, $allow_iframe = false) { return true; }
 
     /**
      * Check for product reference validity

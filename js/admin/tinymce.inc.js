@@ -58,13 +58,17 @@ function tinySetup(config) {
     skin: "prestashop",
     menubar: false,
     statusbar: false,
-    relative_urls: false,
-    convert_urls: false,
     entity_encoding: "raw",
-    extended_valid_elements: "em[class|name|id],@[role|data-*|aria-*]",
-    valid_children: "+*[*]",
-    valid_elements: "*[*]",
-    init_instance_callback: "changeToMaterial",
+    valid_children: "+body[style|script|iframe|section],pre[iframe|section|script|div|p|br|span|img|style|h1|h2|h3|h4|h5],*[*]",
+    valid_elements : '*[*]',
+    force_p_newlines : false,
+    cleanup: false,
+    forced_root_block : false,
+    force_br_newlines : true,
+    convert_urls:true,
+    relative_urls:false,
+    remove_script_host:false,
+    init_instance_callback: "changeToMaterial"
     rel_list:[
       { title: 'nofollow', value: 'nofollow' }
     ]

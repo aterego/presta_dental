@@ -2242,6 +2242,18 @@ class Ps_Facetedsearch extends Module implements WidgetInterface
 
         $latest_selected_filters = $selected_filters;
 
+        //***AVA*** sort array to Brand('manufacturers') to be first
+        usort($filter_blocks, create_function('$a, $b', '
+            $a = $a["type_lite"];
+            $b = $b["type_lite"];
+    
+            if ($a == "manufacturer") return 0;
+            if ($b == "manufacturer") return 0;
+            return 1;
+
+         '));
+
+
         return array(
             'filters' => $filter_blocks,
         );

@@ -19,9 +19,11 @@
 			{/foreach}
 		  </ul>
 		{/block}
+		<!--
 		<div class="block-inner">
 			<a href="#" class="quick-view" data-link-action="quickview"><i class="icon-eye-open"></i>{l s='Quick view' d='Shop.Theme.Actions'}</a>
 		</div>
+		-->
 	</div>
     <div class="product_desc">
 	 
