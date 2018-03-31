@@ -5964,7 +5964,7 @@ body {
   #header .logo {
     margin: 0;
    /* //***AVA*** */
-  margin-top: -25px;
+  margin-top: -10px;
   }
     @media (max-width: 767px) {
       #header .logo {
@@ -6918,7 +6918,7 @@ ul#pt_custommenu_itemmobile {
   position: absolute;
   /* //***AVA*** */
   right: 0;
-  top:50px;
+  top:105px;
 }
   @media (max-width: 1199px) {
     .block-search {
@@ -8452,9 +8452,9 @@ ul#pt_custommenu_itemmobile {
   color: #353535;
   line-height: 24px; }
   .product-information .product-desc p {
-    font-size: 12px;
+    font-size: 14px;
     color: #898989;
-    line-height: 30px;
+    line-height: 17px;
     letter-spacing: 0.025em;
     padding-top: 15px; }
 
