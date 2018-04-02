@@ -6919,6 +6919,7 @@ ul#pt_custommenu_itemmobile {
   /* //***AVA*** */
   right: 0;
   top:105px;
+  z-index: 999;
 }
   @media (max-width: 1199px) {
     .block-search {
