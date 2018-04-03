@@ -39,3 +39,5 @@
     {/foreach}
   </script>
 {/if}
+
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5ac3bc351fff98001395acb7&product=sticky-share-buttons"></script>
